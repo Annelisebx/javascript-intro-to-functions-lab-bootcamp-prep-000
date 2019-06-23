@@ -17,6 +17,7 @@ var lowercase = "hello"
 
 var mixedcase = "Hello"
 
+function sayHiToGrandma(string) {
 if (uppercase.toUpperCase() === uppercase) {
   console.log("YES INDEED!")
   }  
