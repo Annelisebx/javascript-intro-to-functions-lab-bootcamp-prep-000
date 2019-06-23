@@ -20,7 +20,7 @@ var mixedcase = "Hello"
 function sayHiToGrandma(string) {
 if (string.toUpperCase() === string) {
   return "YES INDEED!";
-  }  
+  }  if else {
 }
   
  
